@@ -1,5 +1,5 @@
 # PeerHire_Internship
-statup internship 
+startup internship 
 
 
 # Freelancers Data Analysis Project
